@@ -1,2 +1,2 @@
 # ML_HRI
-Machine Learning for Spatial non-targeted screening and risk assessment of organic pollutants in honey samples collected from Bhakkar District, Pakistan
+Spatial non-targeted screening and ML-based risk assessment of organic pollutants in honey samples collected from Bhakkar District, Pakistan
